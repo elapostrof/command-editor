@@ -1,6 +1,6 @@
 ---
 name: command-editor
-description: Edita el texto de una solicitud antes de ejecutarla cuando el usuario invoca /Command Editor o pide expresamente mejorar, editar o reescribir su input. Conserva su intención, voz y alcance; presenta la versión revisada para confirmación.
+description: Reescribe y optimiza un mensaje, prompt o instrucción dirigida a un agente de IA. Aclara lo que quieres pedir, conserva tu tono, intención y alcance, y muestra un borrador para que lo apruebes antes de ejecutar. Úsala con /Command Editor o cuando pidas editar tu solicitud. Rewrite or improve a draft prompt, preserve the user's voice, and wait for confirmation before executing the task.
 metadata:
   version: "1.0"
   publisher: dongatobélico
