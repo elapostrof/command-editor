@@ -1,8 +1,10 @@
 # Command Editor
 
+**Edita y mejora tu prompt para un agente de IA. Conserva tu voz y aprueba el borrador antes de que el agente ejecute la tarea.**
+
 **Escribe como te salga. Revisa cómo quedó. Da luz verde cuando esté listo.**
 
-Command Editor es una skill que ordena lo que le quieres pedir a un agente de IA sin quitarle tu voz. Te devuelve la solicitud revisada y espera tu confirmación antes de hacer la tarea.
+*English · Rewrite a draft prompt, preserve your voice, and review the result before the agent acts.*
 
 ## De «acomódame este desmadre» a una instrucción clara
 
